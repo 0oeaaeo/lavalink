@@ -1,9 +1,9 @@
 server: # REST and WS server
-  port: ${PORT}
-  address: 0.0.0.0
+  port: 35571
+  address: 35.212.174.161
 lavalink:
   server:
-    password: ${PASSWORD}
+    password: mrbomb
     sources:
       youtube: true
       bandcamp: true
